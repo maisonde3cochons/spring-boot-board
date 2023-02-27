@@ -21,7 +21,8 @@ git clone https://github.com/<your-username>/spring-boot-board.git
 
 ```
 cd spring-boot-board
-gradle build
+# ignore test
+gradle build -x test
 ```
 
 3. Run the project using the Spring Boot Gradle plugin.
