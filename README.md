@@ -19,14 +19,16 @@ git clone https://github.com/<your-username>/spring-boot-board.git
 
 2. Build the project using Gradle.
 
+```
 cd spring-boot-board
 gradle build
-
+```
 
 3. Run the project using the Spring Boot Gradle plugin.
 
+```
 gradle bootRun
-
+```
 
 
 4. Navigate to http://localhost:8080/swagger-ui.html to access the Book Management Service API.
