@@ -29,7 +29,7 @@ gradle bootRun
 
 
 
-4. Navigate to http://localhost:8080 to access the Book Management Service API.
+4. Navigate to http://localhost:8080/swagger-ui.html to access the Book Management Service API.
 
 ## Usage
 
